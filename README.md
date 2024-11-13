@@ -1,4 +1,4 @@
-# Project Title
+# Digits recognition using CNN
 
 This repository contains a Jupyter Notebook to:
 
